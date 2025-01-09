@@ -4,10 +4,16 @@ Repository to display the best practices involved in developing Angular. Of cour
 ## Testing
 
 ### Types of test
+- Unit testing
+- Component testing
+- End-to-end testing
 
-### Things to try out
-- Define Jest with "globals: true", to see if I don't have to use imports for Jest
-- 
+### Testing tools
+- Unit testing:
+  - Jasmine
+    - Old and kind of deprecated. It is the default test tool for Angular, and supported in the Angular CLI, 
+  - Vite
+  - Jest
 
 ## Sources
 ### Google style guide
@@ -22,3 +28,8 @@ Excellent style guide
 Link: https://github.com/w3c/aria-practices/wiki/Code-Guide
 Brilliant page with examples on how to use ARIA (Accessible Rich Internet Application), and how to make 
 
+# Etc
+## Things to try out
+- Define Jest with "globals: true", to see if I don't have to use imports for Jest
+## Todo
+- Finish section on test
