@@ -13,7 +13,7 @@ Repository to display the best practices involved in developing Angular. Of cour
   - Jasmine
     - Old and kind of deprecated. It is the default test tool for Angular, and supported in the Angular CLI, 
   - Vite
-  - Jest
+  - Jest ![icon](https://static-00.iconduck.com/assets.00/jest-icon-1855x2048-ifiupldr.png)
 
 ## Sources
 ### Google style guide
