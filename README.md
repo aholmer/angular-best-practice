@@ -28,8 +28,9 @@ Excellent style guide
 Link: https://github.com/w3c/aria-practices/wiki/Code-Guide
 Brilliant page with examples on how to use ARIA (Accessible Rich Internet Application).
 
-https://www.w3.org/WAI/ARIA/apg/patterns/
+Link: https://www.w3.org/WAI/ARIA/apg/patterns/
 Another great page for especially keyboard shortcuts. Material is trying to adhere to these standards, which mean might know and expect them to be there in your application as well.
+
 # Etc
 ## Things to try out
 - Define Jest with "globals: true", to see if I don't have to use imports for Jest
